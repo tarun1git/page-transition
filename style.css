@@ -76,6 +76,7 @@ img {
     justify-content: flex-start;
     align-items: center;
     padding: 2rem 7rem 2rem 7rem;
+    transform: translateY(100%);
 }
 
 .intro .hero .left-hero {
